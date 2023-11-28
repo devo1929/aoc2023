@@ -1,0 +1,22 @@
+{
+  "name": "aoc2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node days/test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devo1929/aoc2023.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devo1929/aoc2023/issues"
+  },
+  "homepage": "https://github.com/devo1929/aoc2023#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
